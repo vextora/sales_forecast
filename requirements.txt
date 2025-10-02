@@ -1,0 +1,17 @@
+tensorflow
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+alembic
+python-dotenv
+pydantic
+pydantic_settings
+python-jose[cryptography]
+passlib[bcrypt]
+numpy
+pandas
+scikit-learn>=0.24
+httpx
+tqdm
+faker
